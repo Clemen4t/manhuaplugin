@@ -1,0 +1,2 @@
+# manhuaplugin
+plugin special manhua
